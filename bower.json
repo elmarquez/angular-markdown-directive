@@ -1,13 +1,13 @@
 {
   "name": "angular-markdown-directive",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "main": "markdown.js",
   "dependencies": {
-    "angular": "^1.0.8",
-    "angular-sanitize": "^1.0.8",
-    "showdown": "~0.3.1"
+    "angular": "^1.5.0",
+    "angular-sanitize": "^1.5.0",
+    "showdown": "^1.4.0"
   },
   "devDependencies": {
-    "angular-mocks": "^1.0.8"
+    "angular-mocks": "^1.5.0"
   }
 }
